@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 60vmin;
 }
 
 .App-header {
@@ -20,6 +20,16 @@
 .App-link {
   color:white;
   text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.social-media {
+  font-size: 20px;
+  width: 100%;
+  color: white;
+  bottom: 0;
+  position: absolute;
   padding: 20px;
 }
 
